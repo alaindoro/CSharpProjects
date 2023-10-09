@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E1718FD9-4E11-4B16-8A46-E4CFC6238AD1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="homework 6/Repository/Repository.cs">
+    <Files>
+      <File FileName="homework 6/Program.cs" />
+      <File FileName="homework 6/Model/Worker.cs" />
+      <File FileName="homework 6/Repository/Repository.cs" Line="42" Column="18" />
+      <File FileName="../../../../Projects/Csh Homework 5 Files/Csh Homework 5 Files/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework 6" expanded="True">
+            <Node name="homework 6" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="Repository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.homework_2206 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

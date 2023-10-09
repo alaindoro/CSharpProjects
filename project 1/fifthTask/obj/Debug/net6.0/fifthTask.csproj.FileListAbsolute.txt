@@ -1,0 +1,15 @@
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/bin/Debug/net6.0/fifthTask
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/bin/Debug/net6.0/fifthTask.deps.json
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/bin/Debug/net6.0/fifthTask.runtimeconfig.json
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/bin/Debug/net6.0/fifthTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/bin/Debug/net6.0/fifthTask.pdb
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/fifthTask.csproj.AssemblyReference.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/fifthTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/fifthTask.AssemblyInfoInputs.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/fifthTask.AssemblyInfo.cs
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/fifthTask.csproj.CoreCompileInputs.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/fifthTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/refint/fifthTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/fifthTask.pdb
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/fifthTask.genruntimeconfig.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework2/fifthTask/obj/Debug/net6.0/ref/fifthTask.dll

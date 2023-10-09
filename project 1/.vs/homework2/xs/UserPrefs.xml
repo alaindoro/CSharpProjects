@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1802B8D5-E8A0-4486-A678-A66A362454A3}|Default">
+  <MonoDevelop.Ide.ItemProperties.firstTask FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="homework2/Program.cs">
+    <Files>
+      <File FileName="fourthTask/Program.cs" />
+      <File FileName="fifthTask/Program.cs" />
+      <File FileName="homework2SecondTask/Program.cs" />
+      <File FileName="homework2/Program.cs" Line="5" Column="40" />
+      <File FileName="thirdTask/Program.cs" Line="29" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework2" expanded="True">
+            <Node name="fifthTask" expanded="True" />
+            <Node name="firstTask" expanded="True" />
+            <Node name="fourthTask" expanded="True" />
+            <Node name="secondTask" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="thirdTask" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.thirdTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.fourthTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.fifthTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.secondTask PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

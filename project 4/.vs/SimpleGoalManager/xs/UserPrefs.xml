@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{05D2CDC5-575D-4A43-8970-195B39E8AA2F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controller/ImportAction.cs">
+    <Files>
+      <File FileName="Controller/BaseAction.cs" Line="1" Column="1" />
+      <File FileName="Controller/CreateAction.cs" Line="1" Column="1" />
+      <File FileName="Controller/DeleteAction.cs" Line="1" Column="1" />
+      <File FileName="Controller/EditAction.cs" />
+      <File FileName="Controller/ExportAction.cs" />
+      <File FileName="Model/Goal.cs" Line="1" Column="1" />
+      <File FileName="Properties/AssemblyInfo.cs" />
+      <File FileName="Repository/CsvFileStorage.cs" Line="1" Column="1" />
+      <File FileName="IAction.cs" Line="1" Column="1" />
+      <File FileName="IStorage.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="App.config" Line="1" Column="1" />
+      <File FileName="Controller/ImportAction.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleGoalManager" expanded="True">
+            <Node name="SimpleGoalManager" expanded="True">
+              <Node name="Controller" expanded="True">
+                <Node name="ImportAction.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SimpleGoalManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

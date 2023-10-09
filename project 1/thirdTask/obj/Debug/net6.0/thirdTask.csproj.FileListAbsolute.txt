@@ -1,0 +1,15 @@
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/bin/Debug/net6.0/thirdTask
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/bin/Debug/net6.0/thirdTask.deps.json
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/bin/Debug/net6.0/thirdTask.runtimeconfig.json
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/bin/Debug/net6.0/thirdTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/bin/Debug/net6.0/thirdTask.pdb
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/thirdTask.csproj.AssemblyReference.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/thirdTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/thirdTask.AssemblyInfoInputs.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/thirdTask.AssemblyInfo.cs
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/thirdTask.csproj.CoreCompileInputs.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/thirdTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/refint/thirdTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/thirdTask.pdb
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/thirdTask.genruntimeconfig.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework2/thirdTask/obj/Debug/net6.0/ref/thirdTask.dll

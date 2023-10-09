@@ -1,0 +1,15 @@
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/bin/Debug/net6.0/additionalTask
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/bin/Debug/net6.0/additionalTask.deps.json
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/bin/Debug/net6.0/additionalTask.runtimeconfig.json
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/bin/Debug/net6.0/additionalTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/bin/Debug/net6.0/additionalTask.pdb
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/mainTasks.csproj.AssemblyReference.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/mainTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/mainTasks.AssemblyInfoInputs.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/mainTasks.AssemblyInfo.cs
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/mainTasks.csproj.CoreCompileInputs.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/additionalTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/refint/additionalTask.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/additionalTask.pdb
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/mainTasks.genruntimeconfig.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/additionalTask/obj/Debug/net6.0/ref/additionalTask.dll

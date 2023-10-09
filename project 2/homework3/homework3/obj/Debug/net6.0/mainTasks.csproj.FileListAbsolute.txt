@@ -1,0 +1,15 @@
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/bin/Debug/net6.0/homework3
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/bin/Debug/net6.0/homework3.deps.json
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/bin/Debug/net6.0/homework3.runtimeconfig.json
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/bin/Debug/net6.0/homework3.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/bin/Debug/net6.0/homework3.pdb
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/mainTasks.csproj.AssemblyReference.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/mainTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/mainTasks.AssemblyInfoInputs.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/mainTasks.AssemblyInfo.cs
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/mainTasks.csproj.CoreCompileInputs.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/homework3.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/refint/homework3.dll
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/homework3.pdb
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/mainTasks.genruntimeconfig.cache
+/Users/alyonadorofeeva/studyprojects/c#/homework3/homework3/homework3/obj/Debug/net6.0/ref/homework3.dll
